@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Noobilaitor
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m currently learning web dovelopment
+- 💞️ I’m looking to collaborate on python html css or javascript projects
 - 📫 How to reach me baydounwalid10@gmail.com
 
 <!---
